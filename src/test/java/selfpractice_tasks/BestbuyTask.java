@@ -10,6 +10,7 @@ WebDriver driver;
     @BeforeMethod
     public void setup(){
         //write your code here
+        //
     }
 
     @Test
